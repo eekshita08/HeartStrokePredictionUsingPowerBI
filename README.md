@@ -1,0 +1,1 @@
+This file contains the powerbi project where I had worked on the heartstrokeprediction of the patients. Here I had prepared a dashboard by using the measures that had created by using the existing features.
